@@ -1,4 +1,4 @@
-## Hi there, I'm Michael 👋
+## Hi there, I'm Michael Corelli 👋
 
 I'm a Computer and System Engineering passionate about AI, robotics and software development.  
 
