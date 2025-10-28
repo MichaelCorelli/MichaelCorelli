@@ -54,6 +54,6 @@ All the following projects are publicly available on my GitHub profile.
 
 ---
 
-**Contact** 📬
+**Contacts** 📬
 - Email: michaelcorelli11@gmail.com
 - LinkedIn: [Michael Corelli](https://www.linkedin.com/in/michael-corelli-64204a388)
