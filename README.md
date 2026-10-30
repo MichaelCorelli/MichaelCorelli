@@ -12,15 +12,6 @@ Both degrees obtained from **Sapienza University of Rome**
 
 ---
 
-**Statistics** 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelCorelli&show_icons=true&theme=radical" alt="Michael's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCorelli&layout=compact&theme=radical" alt="Top languages" />
-</div>
-
----
-
 **Skills** 💻
 - Programming: Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), 
   C ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white), 
